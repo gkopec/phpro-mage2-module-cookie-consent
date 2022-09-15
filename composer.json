@@ -1,5 +1,5 @@
 {
-    "name": "phpro/mage2-module-cookie-consent",
+    "name": "genius-dev/mage2-module-cookie-consent",
     "description": "Manage and set the categories and list of cookies",
     "type": "magento2-module",
     "license": "MIT",
