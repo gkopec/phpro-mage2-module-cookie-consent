@@ -1,0 +1,48 @@
+Back,Back
+"Delete Cookie Group","Delete Cookie Group"
+"Are you sure you want to do this?","Are you sure you want to do this?"
+"Save and Continue Edit","Save and Continue Edit"
+"Save Cookie Group","Save Cookie Group"
+"We can't find a Cookie Group to delete.","We can't find a Cookie Group to delete."
+"You deleted the Cookie Group.","You deleted the Cookie Group."
+Content,Content
+"Cookie Consent","Cookie Consent"
+"Cookie Group","Cookie Group"
+"New Cookie Group","New Cookie Group"
+"Edit Cookie Group","Edit Cookie Group"
+"Edit Cookie Group: %1","Edit Cookie Group: %1"
+"This Cookie Group no longer exists.","This Cookie Group no longer exists."
+"You saved the Cookie Group.","You saved the Cookie Group."
+"Something went wrong while saving the Cookie Group.","Something went wrong while saving the Cookie Group."
+"Unable to save Cookie Group","Unable to save Cookie Group"
+"Requested Cookie Group entity with entity_id ""%1"" doesn't exist.","Requested Cookie Group entity with entity_id ""%1"" doesn't exist."
+"Unable to remove Cookie Group %1","Unable to remove Cookie Group %1"
+Edit,Edit
+Delete,Delete
+"Are you sure you wan't to delete this record?","Are you sure you wan't to delete this record?"
+"Cookie Policy","Cookie Policy"
+"Privacy Policy","Privacy Policy"
+"We use functional and analytical cookies to make our website better.","We use functional and analytical cookies to make our website better."
+"Would you like to know more about our cookies? Click on ""Cookie settings"".","Would you like to know more about our cookies? Click on ""Cookie settings""."
+"Accept cookies","Accept cookies"
+"Cookie settings","Cookie settings"
+"Show preferences","Show preferences"
+"Allow all","Allow all"
+Save,Save
+Configuration,Configuration
+General,General
+Enabled,Enabled
+"Name of cookie","Name of cookie"
+"Expiration of cookie","Expiration of cookie"
+"Cookie consent overview","Cookie consent overview"
+"Listing of cookie groups","Listing of cookie groups"
+"Cookie preferences button","Cookie preferences button"
+"Button to open the cookie preferences modal","Button to open the cookie preferences modal"
+"General Information","General Information"
+"System name","System name"
+Name,Name
+Description,Description
+Active,Active
+Essential,Essential
+"Add new Cookie Group","Add new Cookie Group"
+ID,ID
